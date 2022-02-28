@@ -1,0 +1,28 @@
+segment_sources:
+  PBA2FAE7E:
+    type: origin_type
+    relation: translation
+    language: en
+  PC0FD853E:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  559ec3150fca46ffb8048b15474c74bc:
+    PBA2FAE7E: e29e5cf337df433284f8187248a00466
+    PC0FD853E: d55af51d48174f8dbca26800edb8c863
+  8dccc22f52b74b4782a8c2401c7526b2:
+    PBA2FAE7E: 10a0b95d5b034f799f7bc1ff2581c739
+    PC0FD853E: e46c38830238415a81f7e229850cac9d
+  798f8b42e3ef4a90a9526737cc8e389b:
+    PBA2FAE7E: 523756c5292e4ba396c25eb5e03a890e
+    PC0FD853E: bb11cba1e88c4ced941170cf322ca7f7
+  1ba2218292ea4d0da71015a9e1696b6f:
+    PBA2FAE7E: a72a8725e73e4bf4b673370fd4b4f94e
+    PC0FD853E: cf27ad9025784ffba06f46ae8e931e6b
+  7b2a6fb410cb408e987370c8befec1da:
+    PBA2FAE7E: c1cfe3e05a3a4c3489ca2d54166e52c3
+    PC0FD853E: 1b4e9969ba544cb29ed2f698430db6fd
+  a77222fd37ba43c69179a64bbea905fd:
+    PBA2FAE7E: 8cb6614a0a954805867877c1e8cfdabf
+    PC0FD853E: cd7a540dde6b45d2b27b59e14c1a0c14
